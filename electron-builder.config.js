@@ -39,7 +39,7 @@ module.exports = {
     category: 'Network',
     synopsis: 'Kaiheila',
     icon: 'resources/kaiheila-uni.png',
-    target: 'AppImage',
+    target: 'zip',
   },
   publish: [
     {
